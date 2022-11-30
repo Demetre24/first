@@ -1,0 +1,65 @@
+{
+  "MainWindow": {
+    "GLOBAL": {
+      "height": "900",
+      "maximized": "1",
+      "style": "0",
+      "userScale": "2",
+      "width": "1600",
+      "xpos": "0",
+      "ypos": "29"
+    }
+  },
+  "Window": {
+    "###/LiveWindow/RomiDrivetrain": {
+      "Collapsed": "0",
+      "Pos": "336,72",
+      "Size": "232,98"
+    },
+    "###/LiveWindow/Ungrouped/DifferentialDrive[1]": {
+      "Collapsed": "0",
+      "Pos": "660,8",
+      "Size": "300,350"
+    },
+    "###FMS": {
+      "Collapsed": "0",
+      "Pos": "6,675",
+      "Size": "336,164"
+    },
+    "###Joysticks": {
+      "Collapsed": "0",
+      "Pos": "312,581",
+      "Size": "976,179"
+    },
+    "###NetworkTables": {
+      "Collapsed": "0",
+      "Pos": "312,346",
+      "Size": "937,231"
+    },
+    "###Other Devices": {
+      "Collapsed": "0",
+      "Pos": "1281,25",
+      "Size": "312,868"
+    },
+    "###System Joysticks": {
+      "Collapsed": "0",
+      "Pos": "6,437",
+      "Size": "232,254"
+    },
+    "###Timing": {
+      "Collapsed": "0",
+      "Pos": "6,187",
+      "Size": "162,142"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "Pos": "7,24",
+      "Size": "109,114"
+    }
+  }
+}
